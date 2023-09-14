@@ -2,4 +2,4 @@ spring:
   profiles:
     active: uat
 application:
-  message: This is the cloud config of microservice2 in uat
+  message: This is the cloud config of microservice2 in user acceptance test

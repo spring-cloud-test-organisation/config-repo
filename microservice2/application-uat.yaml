@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: microservice2
   profiles:
     active: uat
 application:

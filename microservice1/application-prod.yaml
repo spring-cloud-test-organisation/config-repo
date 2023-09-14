@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: prod
+application:
+  message: This is the cloud config of microservice1 in prod

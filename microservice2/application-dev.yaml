@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: dev
+application:
+  message: This is the cloud config of microservice2 in dev

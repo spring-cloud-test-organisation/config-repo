@@ -1,7 +1,2 @@
-spring:
-  application:
-    name: microservice2
-  profiles:
-    active: uat
 application:
   message: This is the cloud config of microservice2 in user acceptance test

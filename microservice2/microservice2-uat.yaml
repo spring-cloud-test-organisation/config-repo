@@ -1,2 +1,5 @@
 # This should be ONLY loaded by Z (and later other WISE µS)
+spring:
+  profile: uat
+
 vendor-wise.url: https://vendor-wise.uat/ 

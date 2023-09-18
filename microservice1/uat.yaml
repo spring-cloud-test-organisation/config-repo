@@ -1,2 +1,2 @@
 application:
-  message: This is the cloud config of microservice2 in prod
+  message: This is the MICROSERVICE1 config in UAT

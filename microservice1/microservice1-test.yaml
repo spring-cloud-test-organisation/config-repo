@@ -1,2 +1,2 @@
 # This should be loaded by X & Y (Edison µS) but not by Z
-vendor-b.url: https://vendor-b.prod/ 
+vendor-b.url: https://vendor-b.test/ 

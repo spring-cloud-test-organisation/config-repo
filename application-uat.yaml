@@ -1,2 +1,1 @@
-application:
-  message: This is the BASE cloud config in UAT
+user.timezone: UAT-CEST

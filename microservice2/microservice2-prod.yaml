@@ -1,0 +1,2 @@
+# This should be ONLY loaded by Z (and later other WISE µS)
+vendor-wise.url: https://vendor-wise.prod/ 

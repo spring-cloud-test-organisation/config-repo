@@ -2,4 +2,4 @@
 spring:
   profile: uat
 
-vendor-b.url: https://vendor-b.uat/ 
+vendor-wise.url: https://vendor-microservice1.uat/ 

@@ -1,2 +1,5 @@
 # This should be loaded by X & Y (Edison µS) but not by Z
+spring:
+  profile: uat
+
 vendor-b.url: https://vendor-b.uat/ 

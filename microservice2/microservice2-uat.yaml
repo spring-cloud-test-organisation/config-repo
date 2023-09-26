@@ -2,4 +2,7 @@
 spring:
   profile: uat
 
+vendor-a:
+  password: ${PASSWORD_VENDORA}
+
 vendor-wise.url: https://vendor-wise.uat/ 

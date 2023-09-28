@@ -5,4 +5,6 @@ spring:
 vendor-a:
   password: ${PASSWORD_VENDORA}
 
+app-config-connection-string: ${APP_CONFIGURATION_CONNECTION_STRING}
+
 vendor-wise.url: https://vendor-wise.uat/ 
